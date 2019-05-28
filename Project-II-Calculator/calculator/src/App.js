@@ -11,8 +11,6 @@ const App = () => {
     <div class="container">
       <div class="things">
         <CalcDisplay />
-      </div>
-      <div class="things">
         <ClearButton />
         <ActionComponent action="&divide;" />
         <NumComponent value="1" />
