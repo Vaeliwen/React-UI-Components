@@ -10,3 +10,11 @@ button {
   background: maroon;
   color: white;
 }
+
+.number:nth-child(15) {
+  width: 300px;
+}
+
+.clear {
+  width: 300px;
+}
