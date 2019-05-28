@@ -14,11 +14,11 @@ const App = () => {
       </div>
       <div class="things">
         <ClearButton />
-        <ActionComponent action="/" />
+        <ActionComponent action="&divide;" />
         <NumComponent value="1" />
         <NumComponent value="2" />
         <NumComponent value="3" />
-        <ActionComponent action="*" />
+        <ActionComponent action="&times;" />
         <NumComponent value="4" />
         <NumComponent value="5" />
         <NumComponent value="6" />
