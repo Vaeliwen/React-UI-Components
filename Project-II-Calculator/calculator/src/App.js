@@ -3,10 +3,12 @@ import "./App.css";
 
 import ActionComponent from "./components/ButtonComponents/ActionButton.js";
 import NumComponent from "./components/ButtonComponents/NumberButton.js";
+import CalcDisplay from "./components/DisplayComponents/CalculatorDisplay.js";
 
 const App = () => {
   return (
     <div>
+      <CalcDisplay />
       <NumComponent value="1" />
       <NumComponent value="2" />
       <NumComponent value="3" />
