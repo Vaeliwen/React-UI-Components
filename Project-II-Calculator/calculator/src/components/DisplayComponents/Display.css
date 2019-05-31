@@ -1,0 +1,13 @@
+.display {
+  width: 390px;
+  height: 80px;
+  margin-bottom: 0px;
+  background: black;
+  color: white;
+  font-size: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding-right: 10px;
+}
